@@ -29,8 +29,8 @@ const Index = () => {
 
     return (
         <div className="flex items-center justify-center min-h-screen bg-gray-100 flex-col ">
-            <div className="p-10 bg-white shadow-md rounded-md bg-[#F0F1E1]">
-            <img src="/logo.png" alt="Logo" className="w-1/3 mb-6 mx-auto"/>
+            <div className="p-10 bg-white shadow-md rounded-md bg-[#F0F1E1] w-[480px]">
+            <img src="/logo.png" alt="Logo" className="mb-6 mx-auto"/>
 
                 <div className="flex flex-col items-center space-y-4 ">
                     <input 
